@@ -1061,7 +1061,7 @@ button:focus {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: black;
 }
 .cid-sUFqjErx8l button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
